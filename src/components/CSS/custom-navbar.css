@@ -1,0 +1,18 @@
+.custom-navbar {
+    background-color: #64b5f6;
+  }
+  
+  .custom-navbar:hover {
+    background-color: #8dc9fa;
+  }
+.custom-navbar .nav-link {
+  color: white; 
+}
+
+.custom-navbar .nav-link:hover {
+  color: black; 
+}
+
+
+
+  
